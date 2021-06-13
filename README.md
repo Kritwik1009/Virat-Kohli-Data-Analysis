@@ -1,2 +1,2 @@
 # Virat-Kohli-Data-Analysis
-Analyse Virat Kohli's Perfoemances over the years
+Analyse Virat Kohli's Performances over the years
